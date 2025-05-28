@@ -33,3 +33,7 @@ This project explores a sales dataset to identify key patterns, trends, and insi
 ---
 
 *This project was developed as part of the TripleTen Data Analytics Bootcamp.*
+
+## 📈 Visualization Example
+
+![Sales Chart](images/sales_chart.png)
