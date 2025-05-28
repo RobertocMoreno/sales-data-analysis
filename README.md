@@ -36,4 +36,4 @@ This project explores a sales dataset to identify key patterns, trends, and insi
 
 ## 📈 Visualization Example
 
-![Sales Chart](images/sales_chart.png)
+![Sales Chart](images/sales_chart.png.png)
